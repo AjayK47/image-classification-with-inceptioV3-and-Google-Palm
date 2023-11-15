@@ -36,7 +36,7 @@ The project also incorporates the Google Generative AI API (Palm) to generate in
 
 2. Download the Food Dataset from Kaggle:
    - [Kaggle Food Image Dataset](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
-    ```
+   
 
 3. Run the Flask application:
 
