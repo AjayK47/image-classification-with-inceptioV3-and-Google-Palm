@@ -13,6 +13,8 @@
 
 ![image](https://github.com/smartinternz02/SI-GuidedProject-615270-1699943916/assets/88961945/df58558d-0ad7-4613-b513-b9747feeec5a)
 
+### Depolyed Model
+
 ![ezgif-3-4d61281ecf](https://github.com/AjayK47/Fruits-vegetables-Classification-and-Nutrition-analysisusing-Inception-V3/assets/88961945/404615ce-6b7f-45f1-b0d5-64b0e68b42b7)
 
 
