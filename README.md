@@ -1,4 +1,4 @@
-# Vegetable and Fruit Classifier with Nutrition Analysis
+# mage-Classification-and-Nutrition-analysis-using-Inception-V3-and-Integration-with-Google-Palm 
 
 ### Depolyed Model
 
