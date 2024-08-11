@@ -1,4 +1,4 @@
-# mage-Classification-and-Nutrition-analysis-using-Inception-V3-and-Integration-with-Google-Palm 
+# Image-Classification-and-Nutrition-analysis-using-Inception-V3-and-Integration-with-Google-Palm 
 
 ### Depolyed Model
 
